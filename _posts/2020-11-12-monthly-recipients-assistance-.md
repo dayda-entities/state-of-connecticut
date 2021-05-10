@@ -1,7 +1,7 @@
 ---
-title: Monthly Recipients Assistance Units FY02
-created: '2020-11-12T14:54:47.723519'
-modified: '2020-11-12T14:54:47.723530'
+title: Monthly Recipients Assistance Units FY99
+created: '2020-11-12T14:57:49.909336'
+modified: '2020-11-12T14:57:49.909346'
 state: active
 type: dataset
 tags:
@@ -12,13 +12,13 @@ tags:
   - Recipients By Town
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/8kmg-4n6q/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/8kmg-4n6q/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/tewy-5stv/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/tewy-5stv/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
 AVERAGE MONTHLY ASSISTANCE UNITS AND RECIPIENTS BY TOWN						
-STATE FISCAL YEAR 2002
+STATE FISCAL YEAR 99
 
 *  Counts are estimated due to AU/recipient address correction.							
 Figures may not add due to rounding.
