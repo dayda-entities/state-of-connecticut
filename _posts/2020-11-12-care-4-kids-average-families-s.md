@@ -1,17 +1,14 @@
 ---
-title: Care 4 Kids Average Families Served per Month 2013
-created: '2020-11-12T14:55:27.039658'
-modified: '2020-11-12T14:55:27.039669'
+title: Care 4 Kids Average Families Served Per Month 2010
+created: '2020-11-12T14:56:50.569953'
+modified: '2020-11-12T14:56:50.569963'
 state: active
 type: dataset
-tags:
-  - Care 4 Kids
-  - Ct
-  - Education
+tags: []
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/chyx-qrjt/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/chyx-qrjt/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/m3xd-9xcw/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/m3xd-9xcw/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
