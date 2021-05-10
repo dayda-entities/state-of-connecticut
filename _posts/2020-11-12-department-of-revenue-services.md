@@ -1,9 +1,7 @@
 ---
-title: >-
-  Department of Revenue Services Tax Credits Carried Forward from FY 2014-15
-  Filings
-created: '2020-11-12T14:54:25.920189'
-modified: '2020-11-12T14:54:25.920197'
+title: Department of Revenue Services FY 2013-14 Tax Credit Carryforwards
+created: '2020-11-12T14:54:30.876425'
+modified: '2020-11-12T14:54:30.876435'
 state: active
 type: dataset
 tags:
@@ -17,9 +15,9 @@ tags:
   - Tax Credits Claimed
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/6q3e-u95u/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/6q3e-u95u/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/75z8-jnw7/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/75z8-jnw7/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Tax Credits Carried Forward from FY 2014-15 Filings (July 1, 2014 through June 30, 2015)
+Department of Revenue Services Tax Credit Carryforwards from Fiscal Year 2013-14 (July 1, 2013 through June 30, 2014) Filings
