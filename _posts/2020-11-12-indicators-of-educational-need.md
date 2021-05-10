@@ -1,18 +1,21 @@
 ---
-title: Indicators of Educational Need by School 2013-14
-created: '2020-11-12T14:54:34.527275'
-modified: '2020-11-12T14:54:34.527281'
+title: Indicators of Educational Need by District 2011-12
+created: '2020-11-12T14:57:26.753919'
+modified: '2020-11-12T14:57:26.753926'
 state: active
 type: dataset
 tags:
-  - Education
-  - Need
-  - School
+  - Ctkids
+  - District
+  - Ell
+  - Enrollment
+  - Lunch Eligibility
+  - Special Education
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/7ikh-6uvh/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/7ikh-6uvh/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/re57-j6dx/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/re57-j6dx/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset contains counts and percentages of special education students, English Language Learners (ELL), and students eligible for free or reduced price meals by school for the 2013-14 school year. Small cell sizes have been suppressed, and are denoted by an asterisk.
+This dataset contains counts and percentages of special education students, English Language Learners (ELL), and students eligible for free or reduced price meals by district for the 2011-12 school year. Small cell sizes have been suppressed, and are denoted by an asterisk.
