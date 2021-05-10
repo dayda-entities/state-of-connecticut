@@ -1,28 +1,19 @@
 ---
-title: Department of Economic and Community Development- Tax Credit Portfolio
-created: '2020-11-12T14:56:26.746090'
-modified: '2020-11-12T14:56:26.746098'
+title: Department of Economic and Community Development - Brownfield Portfolio
+created: '2020-11-12T14:57:46.332248'
+modified: '2020-11-12T14:57:46.332259'
 state: active
 type: dataset
 tags:
-  - Business
-  - Digital
-  - Film
-  - Historic
-  - Insurance
-  - Jet
-  - Media
-  - Small Business
-  - Tax Credits
-  - Tax Credits Earned
-  - Ura
+  - Brownfield
+  - Decd
+  - Department Of Economic And Community Development
+  - Executive Order 38
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/ihra-gwrn/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/ihra-gwrn/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/t2xi-dmhg/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/t2xi-dmhg/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-A listing of DECD administered tax credits that have been allocated and/or earned from 1999 through 12/31/2019.
-
-Please note- Film, Television & Digital Media tax credit activity has been removed from this dataset and can be found here: https://data.ct.gov/Business/DECD-Film-TV-and-Digital-Media-Tax-Credit-Activity/kjsu-mdny
+This is a list of financial assistance agreements for brownfield projects from July 1, 2008 through September 16, 2020.
