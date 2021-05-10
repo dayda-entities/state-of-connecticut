@@ -1,7 +1,7 @@
 ---
-title: Municipal Fiscal Indicators - 2014
-created: '2020-11-12T14:54:08.099544'
-modified: '2020-11-12T14:54:08.099554'
+title: Municipal Fiscal Indicators - 2013
+created: '2020-11-12T14:54:29.501977'
+modified: '2020-11-12T14:54:29.501985'
 state: active
 type: dataset
 tags:
@@ -10,8 +10,8 @@ tags:
   - Opm
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/5cym-55kp/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/5cym-55kp/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/72by-n3wh/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/72by-n3wh/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
