@@ -1,9 +1,7 @@
 ---
-title: >-
-  Department of Revenue Services - Tax Credit Carryforwards from Fiscal Year
-  2012-13 Filings
-created: '2020-11-12T14:56:25.187981'
-modified: '2020-11-12T14:56:25.187991'
+title: Department of Revenue Services - Tax Credits Claimed For 2008
+created: '2020-11-12T14:57:04.751699'
+modified: '2020-11-12T14:57:04.751711'
 state: active
 type: dataset
 tags:
@@ -13,14 +11,13 @@ tags:
   - Drs
   - Executive Order 38
   - Tax
-  - Tax Credit Carry Forward
   - Tax Credits
   - Tax Credits Claimed
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/ig6u-cthx/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/ig6u-cthx/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/nmm6-jyfp/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/nmm6-jyfp/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Department of Revenue Services Tax Credit Carryforwards from Fiscal Year 2012-2013 (July 1, 2012 through June 30, 2013) Filings
+Department of Revenue Services Tax Credits Claimed on 2008 Corporation Business, Insurance Premiums and Public Service Companies Tax Returns
