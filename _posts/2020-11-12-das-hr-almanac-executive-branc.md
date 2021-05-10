@@ -1,16 +1,16 @@
 ---
-title: 'DAS HR Almanac - Executive Branch Employment, Full time and Union Membership'
-created: '2020-11-12T14:57:32.194556'
-modified: '2020-11-12T14:57:32.194563'
+title: 'DAS HR Almanac - Executive Branch Employment, Full Time Vs Part Time'
+created: '2020-11-12T14:58:05.887991'
+modified: '2020-11-12T14:58:05.888000'
 state: active
 type: dataset
 tags:
   - Hr
-  - Personne
+  - Personnel
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/rqu9-nssq/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/rqu9-nssq/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/uwvi-pra7/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/uwvi-pra7/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
