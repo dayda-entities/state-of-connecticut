@@ -1,9 +1,7 @@
 ---
-title: >-
-  Department of Revenue Services - Tax Credits Claimed During Fiscal Year
-  2012-13
-created: '2020-11-12T14:57:08.091132'
-modified: '2020-11-12T14:57:08.091143'
+title: Department of Revenue Services Tax Credits Claimed during FY 15
+created: '2020-11-12T14:57:21.270187'
+modified: '2020-11-12T14:57:21.270197'
 state: active
 type: dataset
 tags:
@@ -17,9 +15,9 @@ tags:
   - Tax Credits Claimed
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/nyid-9wnx/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/nyid-9wnx/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/qivg-ffqa/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/qivg-ffqa/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Department of Revenue Services Tax Credits Claimed during fiscal year 2012-13 (July 1, 2012 through June 30, 2013) Corporation Business, Insurance Premiums and Public Service Companies Tax Returns
+Tax Credits Claimed during FY 2014-15 (July 1, 2014 through June 30, 2015)
