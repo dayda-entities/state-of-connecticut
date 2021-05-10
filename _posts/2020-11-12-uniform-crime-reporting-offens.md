@@ -1,14 +1,17 @@
 ---
-title: Uniform Crime Reporting Offenses 2017
-created: '2020-11-12T14:57:23.041952'
-modified: '2020-11-12T14:57:23.041963'
+title: Uniform Crime Reporting Offenses 2016
+created: '2020-11-12T14:57:59.939664'
+modified: '2020-11-12T14:57:59.939674'
 state: active
 type: dataset
-tags: []
+tags:
+  - Crime
+  - Offense
+  - Ucr
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/qkja-bdfa/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/qkja-bdfa/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/ucfd-x63p/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/ucfd-x63p/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
