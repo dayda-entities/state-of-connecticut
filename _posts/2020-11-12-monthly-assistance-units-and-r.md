@@ -1,24 +1,18 @@
 ---
-title: MONTHLY ASSISTANCE UNITS AND RECIPIENTS BY TOWN FY03
-created: '2020-11-12T14:55:35.425593'
-modified: '2020-11-12T14:55:35.425600'
+title: MONTHLY ASSISTANCE UNITS AND RECIPIENTS BY TOWN-STATE FISCAL YEAR 2011
+created: '2020-11-12T14:55:48.829634'
+modified: '2020-11-12T14:55:48.829642'
 state: active
 type: dataset
 tags:
-  - Assistance Units
-  - Average
-  - Dss
-  - Monthly
-  - Recipients By Town
+  - Dss Average Monthly Assistance Units Recipients By Town
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/d2gy-qyu3/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/d2gy-qyu3/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/eijt-q8ip/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/eijt-q8ip/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-AVERAGE MONTHLY ASSISTANCE UNITS AND RECIPIENTS BY TOWN						
-STATE FISCAL YEAR 2003 
+AVERAGE MONTHLY ASSISTANCE UNITS AND RECIPIENTS BY TOWN-STATE FISCAL YEAR 2011 
 
-*  Counts are estimated due to AU/recipient address correction.							
-Figures may not add due to rounding.
+	* Due to rounding some towns may not display a case but will display recipients.  This is due to most cases having more than one recipient and therefore when averaged, the recipient count will be .5 or higher, and be counted as 1.  Due to rounding, program and statewide totals may appear inaccurate.
