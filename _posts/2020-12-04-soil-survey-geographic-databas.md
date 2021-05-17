@@ -1,34 +1,39 @@
 ---
-title: Soil Survey Geographic Database (SSURGO) Soils
-created: '2020-12-04T18:58:07.493654'
-modified: '2020-12-04T18:58:07.493660'
+title: Soil Survey Geographic Database (SSURGO) Soil Parent Material
+created: '2020-12-04T18:58:31.868875'
+modified: '2020-12-04T18:58:31.868881'
 state: active
 type: dataset
 tags:
   - Ct
   - Ctdeep
   - Data
-  - Database
   - Deep
-  - Geographic
   - Geoscience
-  - Geoscientificinformation
+  - Hydric
+  - Material
+  - Nrcs
   - Open
   - Open Data
+  - Parent
+  - Parent Material
+  - Prime Farmland
   - Soil
+  - Soil Interpretation
   - Soil Survey
   - Soil Survey Geographic
   - Soils
   - Ssurgo
-  - Survey
+  - Stormwater Runnoff Management
+  - Subsurface Sewage Disposal
+  - Wetland
 groups:
   - Local Government
 csv_url: >-
-  https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/388a3bd1a8a74609a997fdbbed208005_0.csv?outSR=%7B%22latestWkid%22%3A2234%2C%22wkid%22%3A102656%7D
+  https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/33216b2080ba40efb121c08f0b8fbf2c_0.csv?outSR=%7B%22latestWkid%22%3A2234%2C%22wkid%22%3A102656%7D
 json_url: >-
-  https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Soil_Survey_Geographic_Database_for_State_Of_Connecticut_Polygons/FeatureServer/0
+  https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Soil_Parent_Material_SSURGO/FeatureServer/0
 layout: post
 
 ---
-This data set is a digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. The information was prepared by digitizing maps, by compiling information onto a planimetric correct base and digitizing, or by revising digitized maps using remotely sensed and other information.
-This data set consists of georeferenced digital map data and computerized attribute data. The map data are in a soil survey area extent format and include a detailed, field verified inventory of soils and miscellaneous areas that normally occur in a repeatable pattern on the landscape and that can be cartographically shown at the scale mapped. A special soil features layer (point and line features) is optional. This layer displays the location of features too small to delineate at the mapping scale, but they are large enough and contrasting enough to significantly influence use and management. The soil map units are linked to attributes in the National Soil Information System relational database, which gives the proportionate extent of the component soils and their properties.
+<div><a href='https://cteco.uconn.edu/guides/Soils_Flooding.htm' rel='nofollow ugc' target='_blank'>See full Data Guide here. </a><br /></div>This data table defines a subset of soil interpretations available for the Soil Survey Geographic (SSURGO) database for the State of Connecticut, which is a digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. This table provides Connecticut users some of the most commonly used local soil interpretations, but is not the complete dataset available for this survey area. The NRCS, Connecticut State office has developed several new local soil interpretations for the Soil Survey including interpretations for identifying Storm Water Runnoff Management, Potential for Subsurface Sewage Disposal, and Soil Parent Material. Other examples of soil interpretations included in this table are Connecticut Inland Wetland Soils, hydric soils, and prime and important famland soils. Information in this data table originated from the National Soil Information System relational database (NASIS) and the Connecticut State Office of the National Resources Conservation Service (NRCS). The digital soil survey map units are linked to attributes in the National Soil Information System relational database, which gives the proportionate extent of the component soils and their properties. The complete dataset is available from Soil Data Mart http://soildatamart.nrcs.usda.gov.
