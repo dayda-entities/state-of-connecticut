@@ -1,7 +1,7 @@
 ---
-title: DSS Township Counts - by Age - CY 2018
-created: '2020-11-12T14:55:15.112584'
-modified: '2020-12-04T18:56:00.506722'
+title: DSS Township Counts - by Age - CY 2015
+created: '2020-11-12T14:55:45.907679'
+modified: '2020-12-04T18:56:25.542926'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,12 @@ tags:
   - Town
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/bcyb-jsgs/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/bcyb-jsgs/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/ea2j-kchs/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/ea2j-kchs/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-DSS CY 2018 Town counts - Number of people enrolled in DSS services in the calendar year 2018, by township and age.
+DSS CY 2015 Town counts - Number of people enrolled in DSS services in the calendar year 2015, by township and age group.
 NOTE: On April 22, 2019 the methodology for determining HUSKY A Newborn recipients changed, which caused an increase of recipients for that benefit starting in October 2016. We now count recipients recorded in the ImpaCT system as well as in the HIX system for that assistance type, instead using HIX exclusively.
 Also, the methodology for determining the address of the recipients changed:
 1. The address of a recipient in the ImpaCT system is now correctly determined specific to that month instead of using the address of the most recent month. This resulted in some shuffling of the recipients among townships starting in October 2016.
