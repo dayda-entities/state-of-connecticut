@@ -1,19 +1,19 @@
 ---
-title: School Readiness 2018-19 By Town (Feb)
-created: '2020-11-12T14:57:25.693661'
-modified: '2020-11-12T14:57:25.693671'
+title: School Readiness 2018-19 By Town (June)
+created: '2020-11-12T14:57:34.460450'
+modified: '2020-11-12T14:57:34.460460'
 state: active
 type: dataset
 tags:
-  - Child Day Care
+  - Child Care
   - Early Care
-  - Education
+  - Early Childhood
   - Preschool
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/r4xd-qpiw/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/r4xd-qpiw/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/ruf4-vedb/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/ruf4-vedb/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-OEC - School Readiness Spaces - Priority and Competitive District for Number of Preschool aged children by town and space type.
+OEC - School Readiness (SR) - Priority and Competitive Districts. The number of state funded SR preschool age children enrolled in spaces by town and space type and if community or school based setting. June, 2019
