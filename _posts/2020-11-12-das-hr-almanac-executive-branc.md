@@ -1,16 +1,17 @@
 ---
-title: 'DAS HR Almanac - Executive Branch Employment, Full Time Vs Part Time'
-created: '2020-11-12T14:58:05.887991'
-modified: '2020-11-12T14:58:05.888000'
+title: DAS HR Almanac - Executive Branch Employment By Gender
+created: '2020-11-12T14:57:12.972619'
+modified: '2020-11-12T14:57:12.972630'
 state: active
 type: dataset
 tags:
+  - Diversity
   - Hr
   - Personnel
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/uwvi-pra7/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/uwvi-pra7/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/pnyc-hkib/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/pnyc-hkib/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
