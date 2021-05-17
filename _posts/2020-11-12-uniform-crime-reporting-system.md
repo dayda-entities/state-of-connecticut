@@ -1,7 +1,7 @@
 ---
-title: Uniform Crime Reporting System Offenses  By Department 2010
-created: '2020-11-12T14:55:07.650166'
-modified: '2020-11-12T14:55:07.650176'
+title: Uniform Crime Reporting System Offenses 2011
+created: '2020-11-12T14:55:08.795946'
+modified: '2020-11-12T14:55:08.795952'
 state: active
 type: dataset
 tags:
@@ -10,8 +10,8 @@ tags:
   - Ucr
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/agnh-ukdm/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/agnh-ukdm/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/aih9-zm8u/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/aih9-zm8u/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
