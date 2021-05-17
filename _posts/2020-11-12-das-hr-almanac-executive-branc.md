@@ -1,17 +1,16 @@
 ---
-title: DAS HR Almanac - Executive Branch Employment By Race
-created: '2020-11-12T14:57:23.129646'
-modified: '2020-11-12T14:57:23.129656'
+title: 'DAS HR Almanac - Executive Branch Employment, Full time and Union Membership'
+created: '2020-11-12T14:57:32.194556'
+modified: '2020-11-12T14:57:32.194563'
 state: active
 type: dataset
 tags:
-  - Diversity
   - Hr
-  - Personnel
+  - Personne
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/qm34-pq7e/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/qm34-pq7e/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/rqu9-nssq/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/rqu9-nssq/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
