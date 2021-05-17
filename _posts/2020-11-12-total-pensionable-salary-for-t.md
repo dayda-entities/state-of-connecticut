@@ -1,7 +1,7 @@
 ---
-title: Total Pensionable Salary for Teachers Retirement Board Members FY 2016
-created: '2020-11-12T14:56:13.121499'
-modified: '2020-11-12T14:56:13.121507'
+title: Total Pensionable Salary for Teachers Retirement Board Members FY 2015
+created: '2020-11-12T14:54:20.793512'
+modified: '2020-11-12T14:54:20.793519'
 state: active
 type: dataset
 tags:
@@ -11,8 +11,8 @@ tags:
   - Teachers
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/gza8-cqde/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/gza8-cqde/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/6b9p-qjxh/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/6b9p-qjxh/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
