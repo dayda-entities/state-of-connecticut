@@ -1,7 +1,7 @@
 ---
-title: Care 4 Kids Average Families Served per Month 2011
-created: '2020-11-12T14:54:06.553429'
-modified: '2020-11-12T14:54:06.553436'
+title: Care 4 Kids Average Families Served per Month 2012
+created: '2020-11-12T14:55:12.383144'
+modified: '2020-11-12T14:55:12.383155'
 state: active
 type: dataset
 tags:
@@ -10,9 +10,9 @@ tags:
   - Education
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/59q7-vx2z/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/59q7-vx2z/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/b8m4-qg3s/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/b8m4-qg3s/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Care 4 Kids helps low to moderate income families in Connecticut pay for child care costs. This program is sponsored by the State of Connecticut’s Department of Social Services.
+Care 4 Kids helps low to moderate income families in Connecticut pay for child care costs. This program is sponsored by the State of Connecticut’s Department of Social Services (also called DSS
