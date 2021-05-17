@@ -1,7 +1,7 @@
 ---
-title: Environmental Sensitivity Index 2002 Polygon
-created: '2020-12-04T18:56:33.323200'
-modified: '2020-12-04T18:56:33.323207'
+title: Environmental Sensitivity Index 2002 Lines
+created: '2020-12-04T18:58:10.840264'
+modified: '2020-12-04T18:58:10.840272'
 state: active
 type: dataset
 tags:
@@ -23,9 +23,9 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/c31de0d70b3747e4a6f41005eb0b8baf_1.csv?outSR=%7B%22latestWkid%22%3A2234%2C%22wkid%22%3A102656%7D
+  https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/c31de0d70b3747e4a6f41005eb0b8baf_0.csv?outSR=%7B%22latestWkid%22%3A2234%2C%22wkid%22%3A102656%7D
 json_url: >-
-  https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Environmental_Sensitivity_Index_2002_Set/FeatureServer/1
+  https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Environmental_Sensitivity_Index_2002_Set/FeatureServer/0
 layout: post
 
 ---
