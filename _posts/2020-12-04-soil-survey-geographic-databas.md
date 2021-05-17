@@ -1,41 +1,36 @@
 ---
-title: Soil Survey Geographic Database (SSURGO) Hydric Soils
-created: '2020-12-04T18:56:22.350451'
-modified: '2020-12-04T18:56:22.350461'
+title: Soil Survey Geographic Database (SSURGO) Farmland Soils Connecticut
+created: '2020-12-04T18:57:19.229334'
+modified: '2020-12-04T18:57:19.229344'
 state: active
 type: dataset
 tags:
+  - Ct
   - Ctdeep
   - Data
   - Database
   - Deep
+  - Farmland
+  - Geographic
   - Geoscience
-  - Hydric
   - Open
   - Open Data
-  - Parent Material
-  - Prime Farmland
   - Soil
-  - Soil Interpretation
   - Soil Survey
   - Soil Survey Geographic
   - Soils
   - Ssurgo
-  - Stormwater Runnoff Management
-  - Subsurface Sewage Disposal
   - Survey
-  - Wetland
 groups:
   - Local Government
 csv_url: >-
-  https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/89f629df26a043159b0771c08981d2ca_0.csv?outSR=%7B%22latestWkid%22%3A2234%2C%22wkid%22%3A102656%7D
+  https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/7128ab92519549cfacefa377b8d09481_0.csv?outSR=%7B%22latestWkid%22%3A2234%2C%22wkid%22%3A102656%7D
 json_url: >-
-  https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Hydric_Soils/FeatureServer/0
+  https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Farmland_Soils_Connecticut_SSURGO/FeatureServer/0
 layout: post
 
 ---
-<div><a href='https://cteco.uconn.edu/guides/Soils_Hydric.htm' rel='nofollow ugc' target='_blank'>See full Data Guide here. </a><br /></div>Hydric soils are defined as soils that formed under conditions of saturation, flooding, or ponding long enough during the growing season to develop anaerobic conditions in the upper part. Under natural conditions, these soils are either saturated or inundated long enough during the growing season to support the growth and reproduction of hydrophytic vegetation. For additional documentation including a description of the map legend for Hydric Soils, refer to the CT ECO Complete Resource Guide for Hydric Soils.
+<div><a href='https://cteco.uconn.edu/guides/Soils_Farmland.htm' rel='nofollow ugc' target='_blank'>See full Data Guide here. </a><br /></div>Farmland classification identifies map units as prime farmland, farmland of statewide importance, farmland of local importance, or unique farmland. Includes Locally Important Farmland Soils for the towns of Ashford, Canterbury, Chaplin, Eastford, Lebanon, Milford, New Milford, and Norfolk. This data set is a digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. The information was prepared by digitizing maps, by compiling information onto a planimetric correct base and digitizing, or by revising digitized maps using remotely sensed and other information.
+This data set consists of georeferenced digital map data and computerized attribute data. The map data are in a soil survey area extent format and include a detailed, field verified inventory of soils and miscellaneous areas that normally occur in a repeatable pattern on the landscape and that can be cartographically shown at the scale mapped. A special soil features layer (point and line features) is optional. This layer displays the location of features too small to delineate at the mapping scale, but they are large enough and contrasting enough to significantly influence use and management. The soil map units are linked to attributes in the National Soil Information System relational database, which gives the proportionate extent of the component soils and their properties.
 
-All soil information included in the CT ECO maps and map viewers is from the Natural Resources Conservation Service (NRCS) Web Soil Survey (WSS), which is based on information originally published on the set of Soil Survey quarter quadrangle maps that cover Connecticut.
-
-Hydric soil have a number of agricultural and nonagricultural applications. These include assistance in land-use planning, conservation planning, and assessment of potential wildlife habitat. A combination of the hydric soil, hydrophytic vegetation, and hydrology properties define wetlands as described in the National Food Security Act Manual (Soil Conservation Service, 1994) and the Corps of Engineers (COE) Wetlands Delineation Manual (Environmental Laboratory, 1987) and COE Regional Supplements for the Clean Water Act Section 404 permit program. Section 404 requires a permit from the COE for the discharge of dredged or fill material into the waters of the United States, including wetlands. Therefore, an area that meets the hydric soil definition must also meet the hydrophytic vegetation and wetland hydrology definitions in order for it to be correctly classified as a jurisdictional wetland.
+The soil map and data used in the SSURGO product were prepared by soil scientists as part of the National Cooperative Soil Survey.
