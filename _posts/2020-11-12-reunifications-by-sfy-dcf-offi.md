@@ -1,7 +1,7 @@
 ---
-title: 'Reunifications by SFY, DCF Office, Race and Length of Stay'
-created: '2020-11-12T14:55:00.860369'
-modified: '2020-11-12T14:55:00.860380'
+title: 'Reunifications by SFY, DCF Office, Age at Exit and Length of Stay'
+created: '2020-11-12T14:53:51.663947'
+modified: '2020-11-12T14:53:51.663954'
 state: active
 type: dataset
 tags:
@@ -18,8 +18,8 @@ tags:
   - Trend
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/9x74-djtb/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/9x74-djtb/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/3sd3-57nc/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/3sd3-57nc/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
