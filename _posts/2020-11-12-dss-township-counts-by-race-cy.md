@@ -1,7 +1,7 @@
 ---
-title: DSS Township Counts - by Race - CY 2017
-created: '2020-11-12T14:57:51.341504'
-modified: '2020-12-04T18:58:23.902847'
+title: DSS Township Counts - by Race - CY 2016
+created: '2020-11-12T14:56:52.645980'
+modified: '2020-12-04T18:57:34.855312'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,12 @@ tags:
   - Town
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/tg57-mqeh/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/tg57-mqeh/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/mcjc-r93f/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/mcjc-r93f/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-DSS CY 2017 Town counts - Number of people enrolled in DSS services in the calendar year 2017, by township and race.
+DSS CY 2016 Town counts - Number of people enrolled in DSS services in the calendar year 2016, by township and race.
 For privacy considerations, a count of zero is used for counts less than five.
 NOTE: On April 22, 2019 the methodology for determining HUSKY A Newborn recipients changed, which caused an increase of recipients for that benefit starting in October 2016. We now count recipients recorded in the ImpaCT system as well as in the HIX system for that assistance type, instead using HIX exclusively.
 Also, the methodology for determining the address of the recipients changed:
