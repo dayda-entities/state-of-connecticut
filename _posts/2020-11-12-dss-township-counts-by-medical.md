@@ -1,7 +1,7 @@
 ---
-title: DSS Township Counts - by Medical Benefit Plan - CY 2018
-created: '2020-11-12T14:55:42.098623'
-modified: '2020-12-04T18:56:19.028948'
+title: DSS Township Counts - by Medical Benefit Plan - CY 2017
+created: '2020-11-12T14:58:09.595273'
+modified: '2020-12-04T18:58:42.307479'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,12 @@ tags:
   - Town
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/dq7c-gqyr/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/dq7c-gqyr/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/v8tr-tqqb/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/v8tr-tqqb/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-DSS CY 2018 Town counts - Number of people enrolled in DSS services in the calendar year 2018, by township and medical benefit plan.
+DSS CY 2017 Town counts - Number of people enrolled in DSS services in the calendar year 2017, by township and medical benefit plan.
 NOTE: On April 22, 2019 the methodology for determining HUSKY A Newborn recipients changed, which caused an increase of recipients for that benefit starting in October 2016. We now count recipients recorded in the ImpaCT system as well as in the HIX system for that assistance type, instead using HIX exclusively.
 Also, the methodology for determining the address of the recipients changed:
 1. The address of a recipient in the ImpaCT system is now correctly determined specific to that month instead of using the address of the most recent month. This resulted in some shuffling of the recipients among townships starting in October 2016.
