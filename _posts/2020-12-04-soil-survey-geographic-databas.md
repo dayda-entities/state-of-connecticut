@@ -1,7 +1,9 @@
 ---
-title: Soil Survey Geographic Database (SSURGO) Farmland Soils Connecticut
-created: '2020-12-04T18:57:19.229334'
-modified: '2020-12-04T18:57:19.229344'
+title: >-
+  Soil Survey Geographic Database (SSURGO) Soil Potential Ratings for Subsurface
+  Sewage Disposal Systems
+created: '2020-12-04T18:55:00.580363'
+modified: '2020-12-04T18:55:00.580371'
 state: active
 type: dataset
 tags:
@@ -10,27 +12,36 @@ tags:
   - Data
   - Database
   - Deep
-  - Farmland
-  - Geographic
+  - Disposal
+  - Geograhic
   - Geoscience
+  - Hydric
   - Open
   - Open Data
+  - Parent Material
+  - Potential
+  - Prime Farmland
+  - Ratings
+  - Sewage
   - Soil
+  - Soil Interpretation
   - Soil Survey
   - Soil Survey Geographic
   - Soils
   - Ssurgo
+  - Stormwater Runnoff Management
+  - Subsurface
+  - Subsurface Sewage Disposal
   - Survey
+  - Systems
+  - Wetland
 groups:
   - Local Government
 csv_url: >-
-  https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/7128ab92519549cfacefa377b8d09481_0.csv?outSR=%7B%22latestWkid%22%3A2234%2C%22wkid%22%3A102656%7D
+  https://ct-deep-gis-open-data-website-ctdeep.hub.arcgis.com/datasets/34c59e8e8d014ee69e4160155496c92a_0.csv?outSR=%7B%22latestWkid%22%3A2234%2C%22wkid%22%3A102656%7D
 json_url: >-
-  https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Farmland_Soils_Connecticut_SSURGO/FeatureServer/0
+  https://services1.arcgis.com/FjPcSmEFuDYlIdKC/arcgis/rest/services/Soil_Potential_Ratings_for_Subsurface_Sewage_Disposal_Systems_SSURGO/FeatureServer/0
 layout: post
 
 ---
-<div><a href='https://cteco.uconn.edu/guides/Soils_Farmland.htm' rel='nofollow ugc' target='_blank'>See full Data Guide here. </a><br /></div>Farmland classification identifies map units as prime farmland, farmland of statewide importance, farmland of local importance, or unique farmland. Includes Locally Important Farmland Soils for the towns of Ashford, Canterbury, Chaplin, Eastford, Lebanon, Milford, New Milford, and Norfolk. This data set is a digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. The information was prepared by digitizing maps, by compiling information onto a planimetric correct base and digitizing, or by revising digitized maps using remotely sensed and other information.
-This data set consists of georeferenced digital map data and computerized attribute data. The map data are in a soil survey area extent format and include a detailed, field verified inventory of soils and miscellaneous areas that normally occur in a repeatable pattern on the landscape and that can be cartographically shown at the scale mapped. A special soil features layer (point and line features) is optional. This layer displays the location of features too small to delineate at the mapping scale, but they are large enough and contrasting enough to significantly influence use and management. The soil map units are linked to attributes in the National Soil Information System relational database, which gives the proportionate extent of the component soils and their properties.
-
-The soil map and data used in the SSURGO product were prepared by soil scientists as part of the National Cooperative Soil Survey.
+This data table defines a subset of soil interpretations available for the Soil Survey Geographic (SSURGO) database for the State of Connecticut, which is a digital soil survey and generally is the most detailed level of soil geographic data developed by the National Cooperative Soil Survey. This table provides Connecticut users some of the most commonly used local soil interpretations, but is not the complete dataset available for this survey area. The NRCS, Connecticut State office has developed several new local soil interpretations for the Soil Survey including interpretations for identifying Storm Water Runnoff Management, Potential for Subsurface Sewage Disposal, and Soil Parent Material. Other examples of soil interpretations included in this table are Connecticut Inland Wetland Soils, hydric soils, and prime and important famland soils. Information in this data table originated from the National Soil Information System relational database (NASIS) and the Connecticut State Office of the National Resources Conservation Service (NRCS). The digital soil survey map units are linked to attributes in the National Soil Information System relational database, which gives the proportionate extent of the component soils and their properties. The complete dataset is available from Soil Data Mart http://soildatamart.nrcs.usda.gov.
