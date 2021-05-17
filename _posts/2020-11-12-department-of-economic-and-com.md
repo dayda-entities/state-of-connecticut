@@ -1,24 +1,28 @@
 ---
-title: >-
-  Department of Economic and Community Development- Connecticut Recovery Bridge
-  Loan Program
-created: '2020-11-12T14:54:11.485413'
-modified: '2020-11-12T14:54:11.485423'
+title: Department of Economic and Community Development- Tax Credit Portfolio
+created: '2020-11-12T14:56:26.746090'
+modified: '2020-11-12T14:56:26.746098'
 state: active
 type: dataset
 tags:
-  - Business Assistance
-  - Covid 19
-  - Decd
-  - Loan
+  - Business
+  - Digital
+  - Film
+  - Historic
+  - Insurance
+  - Jet
+  - Media
   - Small Business
+  - Tax Credits
+  - Tax Credits Earned
+  - Ura
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/5kak-hfji/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/5kak-hfji/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/ihra-gwrn/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/ihra-gwrn/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This dataset lists all companies funded through the Connecticut Recovery Bridge Loan Program.
+A listing of DECD administered tax credits that have been allocated and/or earned from 1999 through 12/31/2019.
 
-Information about the bridge loan program can be found here:  https://portal.ct.gov/DECD/Content/Coronavirus-Business-Recovery/CT-Recovery-Bridge-Loan-Program
+Please note- Film, Television & Digital Media tax credit activity has been removed from this dataset and can be found here: https://data.ct.gov/Business/DECD-Film-TV-and-Digital-Media-Tax-Credit-Activity/kjsu-mdny
