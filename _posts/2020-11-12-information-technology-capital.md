@@ -1,18 +1,15 @@
 ---
-title: Information Technology Capital Investment Program
-created: '2020-11-12T14:56:03.933896'
-modified: '2020-11-12T14:56:03.933902'
+title: Information Technology Capital Investment Program Allotments
+created: '2020-11-12T14:55:29.232302'
+modified: '2020-11-12T14:55:29.232313'
 state: active
 type: dataset
-tags:
-  - It
-  - Itim
-  - Opm
+tags: []
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/g24u-uzzf/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/g24u-uzzf/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/cjnq-s3yf/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/cjnq-s3yf/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Request for funding through the IT Capital Investment Program.  For more information please go to http://www.ct.gov/opm/cwp/view.asp?a=2979&Q=511606&PM=1&opmNav=|
+Staging Data for the purpose of testing visualization
