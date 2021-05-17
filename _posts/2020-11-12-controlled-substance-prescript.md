@@ -1,7 +1,7 @@
 ---
-title: Controlled Substance Prescriptions by Drug Schedule
-created: '2020-11-12T14:53:40.998228'
-modified: '2020-11-12T14:53:40.998235'
+title: Controlled Substance Prescriptions per Quarter
+created: '2020-11-12T14:54:40.123255'
+modified: '2020-11-12T14:54:40.123266'
 state: active
 type: dataset
 tags:
@@ -11,9 +11,9 @@ tags:
   - Prescription Monitoring Program
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/2sgj-pnua/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/2sgj-pnua/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/82x5-wmpi/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/82x5-wmpi/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Controlled Substance prescription breakdown by DEA drug schedule per year since 2016
+Controlled Substance prescription breakdown per quarter beginning in 2016
