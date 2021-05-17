@@ -1,7 +1,7 @@
 ---
-title: DAS HR Almanac - Executive Branch Employment By Gender
-created: '2020-11-12T14:57:12.972619'
-modified: '2020-11-12T14:57:12.972630'
+title: DAS HR Almanac - Executive Branch Employment By Race
+created: '2020-11-12T14:57:23.129646'
+modified: '2020-11-12T14:57:23.129656'
 state: active
 type: dataset
 tags:
@@ -10,8 +10,8 @@ tags:
   - Personnel
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/pnyc-hkib/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/pnyc-hkib/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/qm34-pq7e/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/qm34-pq7e/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
