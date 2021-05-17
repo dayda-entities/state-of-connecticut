@@ -1,23 +1,26 @@
 ---
-title: DSS Types of Assistance (TOA) Participation CY 2012-2019
-created: '2020-11-12T14:54:02.830591'
-modified: '2020-12-04T18:54:55.039935'
+title: DSS Types of Assistance (TOA) Participation by Month CY 2012-2020
+created: '2020-11-12T14:55:26.519848'
+modified: '2020-12-04T18:56:10.622395'
 state: active
 type: dataset
 tags:
   - Dss
   - Enrollment Counts
+  - Monthly
   - Types Of Assistance
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/4rjp-gw6s/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/4rjp-gw6s/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/chsv-phja/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/chsv-phja/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Number of active recipients who received benefits from a type of assistance (TOA) in that calendar year. A recipient may have received benefits from multiple TOAs in the same year; if so that recipient will be included in multiple categories in this dataset (counted more than once.)
+Number of active recipients who received benefits from a type of assistance (TOA) in that calendar year and month. A recipient may have received benefits from multiple TOAs in the same month; if so that recipient will be included in multiple categories in this dataset (counted more than once.) 
 For privacy considerations, a count of zero is used for counts less than five.
+2020 is a partial year.
 NOTE: On April 22, 2019 the methodology for determining HUSKY A Newborn recipients changed, which caused an increase of recipients for that benefit starting in October 2016. We now count recipients recorded in the ImpaCT system as well as in the HIX system for that assistance type, instead using HIX exclusively.
+Also, corrections in the ImpaCT system for January and February 2019 caused the addition of around 2000 and 3000 recipients respectively, and the counts for many types of assistance (e.g. SNAP) were adjusted upward for those 2 months.
 Also, the methodology for determining the address of the recipients changed:
     1. The address of a recipient in the ImpaCT system is now correctly determined specific to that month instead of using the address of the most recent month. This resulted in some shuffling of the recipients among townships starting in October 2016.
     2. If, in a given month, a recipient has benefit records in both the HIX system and in the ImpaCT system, the address of the recipient is now calculated as follows to resolve conflicts: Use the residential address in ImpaCT if it exists, else use the mailing address in ImpaCT if it exists, else use the address in HIX. This resulted in a reduction in counts for most townships starting in March 2017 because a single address is now used instead of two when the systems do not agree.
