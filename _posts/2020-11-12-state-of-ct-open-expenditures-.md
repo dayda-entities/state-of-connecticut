@@ -1,7 +1,7 @@
 ---
 title: State of CT Open Expenditures - Ledger
-created: '2020-11-12T14:53:56.322016'
-modified: '2020-11-12T14:53:56.322023'
+created: '2020-11-12T14:56:38.585508'
+modified: '2020-12-04T18:57:22.677540'
 state: active
 type: dataset
 tags:
@@ -10,12 +10,12 @@ tags:
   - Usodcensus
 groups:
   - Local Government
-csv_url: 'https://data.ct.gov/api/views/4b3c-3g3a/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.ct.gov/api/views/4b3c-3g3a/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.ct.gov/api/views/jz5u-r6jf/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.ct.gov/api/views/jz5u-r6jf/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This data allows citizens to view who received payments from the state for goods or services and how much they received. The data can be explored by searching for specific payee names or by browsing by Government Function. The Open Checkbook app( http://opencheckbook.ct.gov) allows the user to drill down from aggregated spending accounts all the way down to each individual payment to a payee. 
+This data allows citizens to view who received payments from the state for goods or services and how much they received. The data can be explored by searching for specific payee names or by browsing by Government Function. <a href="http://opencheckbook.ct.gov">The Open Checkbook app</a> allows the user to drill down from aggregated spending accounts all the way down to each individual payment to a payee. 
 
 The  data is updated nightly and therefore reflects current spending activities more accurately than any other publicly available source. In general the data reflects all payments made up to 24 to 48 hours prior to view.
 
